@@ -1,16 +1,153 @@
-## Hi there 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi! I'm Máté <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="#">######
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**materadetzky/materadetzky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mate.radetzky.hu/)](https://mate.rardetzky.hu/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+  name: "Máté Radetzky",
+  pronouns: ["he", "him"],
+  languages: ["HTML", "JavaScript", "Python", "Dart", "React", "React Native", "XCode"],
+  askMeAbout: [
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "agentic systems",
+    "system design"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Bootstrap"],
+      uiLibraries: [
+        "Material UI",
+        "Ant Design",
+        "ReactBits",
+        "HeroUI"
+      ]
+    },
+
+    backend: {
+      node: ["Node.js", "Express"],
+      python: ["Flask"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+    },
+
+
+    databases: {
+      relational: ["PostgreSQL"],
+      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      inMemory: ["LocalStorage"]
+    },
+
+    realtimeAndAPIs: [
+      "REST APIs",
+      "WebSockets",
+      "Socket.IO"
+    ],
+
+    ai: {
+      generativeAI: [
+        "LLM integration",
+        "Prompt engineering",
+        "Workflow automation"
+      ],
+      models: ["OpenAI", "Gemini", "Llama", "Anthropic"]
+    }
+  },
+
+funFact: "Most bugs disappear after a coffee and a clean commit history"
+};
+```
+
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C453%20hrs%2017%20mins-blue?style=flat)
+
+
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-458-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-54.89%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 20.5 GB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 ~40 Public Repositories 
+ > 
+> 🔑 ∞∞ Private Repositories 
+ > 
+**I'm a Evening guy 🦉** 
+
+```text
+🌞 Morning                10633 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+🌆 Daytime                15203 commits       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌃 Evening                19647 commits       █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌙 Night                  7302 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   9317 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Tuesday                  10764 commits       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Wednesday                7247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 5758 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   4521 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Saturday                 7589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Sunday                   7589 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Budapest
+
+💻 Operating System: 
+Arch Linux                      0 secs              █████████████████████████   100.00 % 
+```
+
+
+**I Mostly Code in React Native** 
+
+```text
+React native             32 repos            ██████████████░░░░░░░░░░░   38.20 % 
+JavaScript                6 repos            ██████████░░░░░░░░░░░░░░░   20.22 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+```
+
+
+
+
+ Last Updated in 2026
+<!--END_SECTION:waka-->
+
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
